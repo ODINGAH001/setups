@@ -11,7 +11,7 @@
  *
  * Return: The length of @str.
  */
-int _strlen(char *c)
+int _strlen(char *s)
 {
 	int i;
 
