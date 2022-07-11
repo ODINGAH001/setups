@@ -13,10 +13,13 @@
  */
 size_t _strlen(const char *str)
 {
-	size_t length = 0;
+	int i;
 
-	while (*str++)
-		length++;
-
-	return (length);
+	i = 0;
+	while (*s != '\0')
+	{
+		i++;
+		s++;
+	}
+	return (i);
 }
