@@ -5,7 +5,7 @@
  * File: main.h
  * Auth: Brennan D Baraban
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x07-recursion directory.
+ *       used in the 0x08-recursion directory.
  */
 
 int _putchar(char c);
