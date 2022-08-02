@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C - Preprocessor
 
 In this project, I learned about common predefined macros in C while
@@ -28,3 +29,6 @@ practicing implementing my own and include-guarding header files.
 * **4. SUM**
   * [4-sum.h](./4-sum.h): Header file that defines a function-like macro `SUM(x, y)`
   that computes the sum of the numbers `x` and `y`.
+=======
+Read me file
+>>>>>>> a3c5c0bb583bcfa5a22cc7ac11bc1ae32ca9d6dc
